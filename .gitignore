@@ -10,6 +10,7 @@ __pycache__/
 data/
 model.keras
 data.zip
+gmodel.h5
 
 # Distribution / packaging
 .Python

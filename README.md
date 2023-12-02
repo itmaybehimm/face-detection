@@ -15,6 +15,8 @@ You can train the model on your data too by keeping files in a folder structure 
 
 Face detection is critical in computer vision, enabling applications like facial recognition, emotion analysis, and more. These notebooks explore different approaches and models for detecting faces in images using TensorFlow.
 
+Pretrained weights at: [https://drive.google.com/drive/folders/1_AxpfdjK2TYvuh5MpR10x8c9gfhZ1efu?usp=share_link]
+
 ## Notebooks
 
 ### 1. data_collection.ipynb
